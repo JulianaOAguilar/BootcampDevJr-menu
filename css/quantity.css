@@ -7,6 +7,14 @@
     
 }
 
+.minus {
+    width: 30px;
+}
+
+.plus {
+    width: 30px;
+}
+
 .quantity .input-text.qty {
     width: 35px;
     height: 39px;
